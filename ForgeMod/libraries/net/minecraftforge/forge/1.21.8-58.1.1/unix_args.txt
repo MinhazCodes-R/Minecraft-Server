@@ -1,0 +1,1 @@
+-Djava.net.preferIPv6Addresses=system -jar forge-1.21.8-58.1.1-shim.jar

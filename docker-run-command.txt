@@ -1,0 +1,7 @@
+sudo docker run -d \
+  -p 25565:25565 \
+  -v /home/minhaz/Desktop/Minecraft:/minecraft \
+  -w /minecraft \
+  --name minecraft \
+  minecraft-server
+

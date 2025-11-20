@@ -1,0 +1,2 @@
+sudo docker attach minecraft
+#helps to attach to the minecraft container to be able to run commands
